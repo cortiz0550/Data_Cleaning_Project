@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------------------------------------
 -- Cleaning Data in SQL Queries
 --------------------------------------------------------------------------------------------------------------
-
+-- This is just to get a look at the data before we begin.
 SELECT *
 FROM [Portfolio Project 3]..NashvilleHousing;
 
